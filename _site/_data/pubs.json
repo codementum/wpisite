@@ -1,0 +1,302 @@
+{
+
+"publications" : [
+
+{
+"key"       :  "danas2017user",
+"author"    :  "Natasha Danas, Tim Nelson, Lane Harrison, Shriram Krishnamurthi, Daniel J. Dougherty",
+"title"     :  "User Studies of Principled Model Finder Output",
+"journal"   :  "Software Engineering and Formal Methods",
+"preview"   :  "img/danas2017user-preview.png",
+"pdf"       :  "docs/danas2017user.pdf",
+"year"      :  "2017"
+},
+
+
+{
+"key"       :  "feng2016hindsight",
+"author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
+"title"     :  "HindSight: Encouraging Exploration through Direct Encoding of Personal Interaction History",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"preview"   :  "img/feng2016hindsight-preview.png",
+"pdf"       :  "docs/feng2016hindsight.pdf",
+"year"      :  "2016"
+},
+
+{
+"key"       :  "hakone2016proact",
+"author"    :  "Anzu Hakone, Lane Harrison, Alvitta Ottley, Nathan Winters, Caitlin Guthiel, Paul KJ Han, Remco Chang",
+"title"     :  "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"pdf"       :  "docs/hakone2016proact.pdf",
+"year"      :  "2016"
+},
+
+{
+"key"       :  "crouser2016beyond",
+"author"    :  "R. Jordan Crouser, Lane Harrison, Daniel Afergan, Evan M. Peck",
+"title"     :  "Beyond Detection: Investing in Practical and Theoretical Applications of Emotion and Visualization",
+"journal"   :  "IUI: ACM Conference on Intelligent User Interfaces, Workshop on Emotion and Visualization",
+"pdf"       :  "docs/crouser2016beyond.pdf",
+"year"      :  "2016"
+},
+
+{
+"key"       :  "yuksel2016learn",
+"author"    :  "Beste Yuksel, Kurt Oleson, Lane Harrison, Evan M. Peck, Daniel Afergan, Remco Chang, Robert J.K. Jacob",
+"title"     :  "Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty based on Brain State",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
+"award"     :  "Best Paper Award",
+"year"      :  "2016",
+"pdf"       :  "docs/yuksel2016learn.pdf",
+"preview"   :  "img/yuksel2016learn-preview.png"
+},
+
+{
+"key"       :  "ottley2015improving",
+"author"    :  "Alvitta Ottley, Evan M. Peck, Lane Harrison, Daniel Afergan, Caroline Ziemkiewicz, Holly A. Taylor, Paul K. J. Han, Remco Chang",
+"title"     :  "Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"year"      :  "2015",
+"pdf"       :  "docs/ottley2015improving.pdf",
+"preview"   :  "img/ottley2015improving-preview.png"
+},
+
+{
+"key"       :  "yuksel2015braahms",
+"author"    :  "Beste F. Yuksel, Daniel Afergan, Evan M Peck, Garth Griffin, Lane Harrison, Nick W.B. Chen, Remco Chang and Robert J.K. Jacob",
+"title"     :  "BRAAHMS: A Novel Adaptive Musical Interface Based on Users' Cognitive State",
+"journal"   :  "New Interfaces for Musical Expression (NIME)",
+"year"      :  "2015",
+"pdf"       :  "docs/yuksel2015braahms.pdf",
+"preview"   :  "img/yuksel2015braahms-preview.png"
+},
+
+{
+"key"       :  "skau2015evaluation",
+"author"    :  "Drew Skau, Lane Harrison, Robert Kosara",
+"title"     :  "An Evaluation of The Impact of Visual Embellishments In Bar Charts",
+"journal"   :  "Computer Graphics Forum (Proc. EuroVis)",
+"year"      :  "2015",
+"pdf"       :  "docs/skau2015evaluation.pdf",
+"preview"   :  "img/skau2015evaluation-preview.png"
+},
+
+{
+"key"       :  "harrison2015infographic",
+"author"    :  "Lane Harrison, Katharina Reinecke, Remco Chang",
+"title"     :  "Infographic Aesthetics: Designing for the First Impression",
+"journal"   :  "Proc. ACM Human Factors in Computing Systems (CHI)",
+"year"      :  "2015",
+"pdf"       :  "docs/harrison2015infographic.pdf",
+"preview"   :  "img/harrison2015infographic-preview.png"
+},
+
+{
+"key"       :  "harrison2014ranking",
+"author"    :  "Lane Harrison, Fumeng Yang, Steven Franconeri, Remco Chang",
+"title"     :  "Ranking Visualizations of Correlation Using Weber's Law",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"year"      :  "2014",
+"pdf"       :  "docs/harrison2014ranking.pdf",
+"preview"   :  "img/harrison2014ranking-preview.png"
+},
+
+{
+"key"       :  "staheli2014visualization",
+"author"    :  "Diane Staheli, Tamara Yu, Jordan Crouser, Suresh Damodaran, Kevin Nam, David O'Gwynn, Sean McKenna, Lane Harrison",
+"title"     :  "Visualization Evaluation for Cyber Security: Trends and Future Directions",
+"journal"   :  "Proceedings of the Eleventh International Symposium on Visualization for Cyber Security (VizSec)",
+"year"      :  "2014",
+"pdf"       :  "docs/staheli2014visualization.pdf",
+"preview"   :  "img/staheli2014visualization-preview.png"
+},
+
+{
+"key"       :  "harrison2013influencing",
+"author"    :  "Lane Harrison, Drew Skau, Steven Franconeri, Aidong Lu, Remco Chang",
+"title"     :  "Influencing Visual Judgment through Affective Priming",
+"journal"   :  "Proc. ACM Human Factors in Computing Systems (CHI)",
+"year"      :  "2013",
+"pdf"       :  "docs/harrison2013influencing.pdf",
+"preview"   :  "img/harrison2013influencing-preview.png"
+},
+
+{
+"key"       :  "ottley2013adaptive",
+"author"    :  "Alvitta Ottley, Evan M Peck, Lane Harrison, Remco Chang",
+"title"     :  "The adaptive user: Priming to improve interaction",
+"journal"   :  "ACM CHI 2013 Workshop on Many People Many Eyes",
+"year"      :  "2013",
+"pdf"       :  "docs/ottley2013adaptive.pdf"
+},
+
+{
+"key"       :  "peck2012icd3",
+"author"    :  "Evan M Peck, Beste F Yuksel, Lane Harrison, Alvitta Ottley, Remco Chang",
+"title"     :  "ICD3: Towards a 3-dimensional model of individual cognitive differences",
+"journal"   :  "IEEE VisWeek BELIV Workshop (Beyond time and errors: novel evaluation methods for information visualization)",
+"year"      :  "2012",
+"pdf"       :  "docs/peck2012icd3.pdf",
+"preview"   :  "img/peck2012icd3-preview.png"
+},
+
+{
+"key"       :  "harrison2012future",
+"author"    :  "Lane Harrison, Aidong Lu",
+"title"     :  "The future of security visualization: lessons from network visualization",
+"journal"   :  "IEEE Network Magazine",
+"year"      :  "2012"
+},
+
+{
+"key"       :  "harrison2012nessus",
+"author"    :  "Lane Harrison, Riley Spahn, Mike Iannacone, Evan Downing, John R. Goodall",
+"title"     :  "NV: Nessus vulnerability visualization for the web",
+"journal"   :  "Proceedings of the Ninth International Symposium on Visualization for Cyber Security (VizSec)",
+"year"      :  "2012",
+"pdf"       :  "docs/harrison2012nessus.pdf",
+"preview"   :  "img/harrison2012nessus-preview.png"
+},
+
+{
+"key"       :  "dou2012toward",
+"author"    :  "Wenwen Dou, Caroline Ziemkiewicz, Lane Harrison, Dong Hyun Jeong, William Ribarsky, Xiaoyu Wang, Remco Chang",
+"title"     :  "Toward a deeper understanding of the relationship between interaction constraints and visual isomorphs",
+"journal"   :  "Information Visualization (IV)",
+"year"      :  "2012",
+"pdf"       :  "docs/dou2012toward.pdf",
+"preview"   :  "img/dou2012toward-preview.png"
+},
+
+{
+"key"       :  "dou2010comparing",
+"author"    :  "Wenwen Dou, Caroline Ziemkiewicz, Lane Harrison, Dong Hyun Jeong, Roxanne Ryan, William Ribarsky, Xiaoyu Wang, Remco Chang",
+"title"     :  "Comparing different levels of interaction constraints for deriving visual problem isomorphs",
+"journal"   :  "Visual Analytics Science and Technology (VAST), IEEE Conference",
+"year"      :  "2010",
+"pdf"       :  "docs/dou2010comparing.pdf"
+},
+
+{
+"key"       :  "yu2010digital",
+"author"    :  "Li Yu, Lane Harrison, Aidong Lu, Zhiwei Li, Weichao Wang",
+"title"     :  "3D Digital Legos for Teaching Security Protocols",
+"journal"   :  "IEEE Transactions on Learning Technologies",
+"year"      :  "2010",
+"preview"   :  "img/yu2010digital-preview.png"
+},
+
+{
+"key"       :  "harrison2010interactive",
+"author"    :  "Lane Harrison, Xianlin Hu, Xiaowei Ying, Aidong Lu, Weichao Wang, Xintao Wu",
+"title"     :  "Interactive detection of network anomalies via coordinated multiple views",
+"journal"   :  "Proceedings of the Seventh International Symposium on Visualization for Cyber Security (VizSec)",
+"year"      :  "2010",
+"pdf"       :  "docs/harrison2010interactive.pdf",
+"preview"   :  "img/harrison2010interactive-preview.png"
+},
+
+{
+"key"       :  "harrison2010linked",
+"author"    :  "Lane Harrison, Thomas Butkiewicz, Xiaoyu Wang, William Ribarsky, Remco Chang",
+"title"     :  "A Linked Feature Space Approach to Exploring LIDAR Data",
+"journal"   :  "Visual Analytics for Homeland Defense and Security, SPIE",
+"year"      :  "2010",
+"pdf"       :  "docs/harrison2010linked.pdf",
+"preview"   :  "img/harrison2010linked-preview.png"
+}
+
+],
+
+
+"posters" : [
+
+{
+"key"       :  "tsiros2015visualizing",
+"author"    :  "Alyssa Tsiros, Lane Harrison",
+"title"     :  "Visualizing ncRNA Structural Evolution",
+"journal"   :  "BioVis Symposium",
+"year"      :  "2015",
+"pdf"       :  "docs/tsiros2015visualizing.pdf",
+"preview"   :  "img/tsiros2015visualizing-preview.png"
+},
+
+{
+"key"       :  "harrison2014incorporating",
+"author"    :  "Lane Harrison, Aidong Lu",
+"title"     :  "Incorporating Uncertainty in Intrusion Detection to Enhance Decision Making",
+"journal"   :  "Scientific Visualization",
+"year"      :  "2014",
+"preview"   :  "img/harrison2014incorporating-preview.png"
+},
+
+{
+"key"       :  "harrison2012exploring",
+"author"    :  "Lane Harrison, Remco Chang, Aidong Lu",
+"title"     :  "Exploring the impact of emotion on visual judgement",
+"award"     :  "Best Poster",
+"journal"   :  "Visual Analytics Science and Technology (VAST), IEEE Conference",
+"year"      :  "2012",
+"pdf"       :  "docs/harrison2012exploring.pdf",
+"preview"   :  "img/harrison2012exploring-preview.png"
+},
+
+{
+"key"       :  "harrison2012situ",
+"author"    :  "Lane Harrison, Jason Laska, Riley Spahn, Mike Iannacone, Evan Downing, Erik Ferragut, John Goodall",
+"title"     :  "situ: Situational understanding and discovery for cyber attacks",
+"journal"   :  "Visual Analytics Science and Technology (VAST), IEEE Conference",
+"year"      :  "2012"
+},
+
+{
+"key"       :  "hu2012evaluation",
+"author"    :  "Xianlin Hu, Lane Harrison, Aidong Lu, Li Yu, Huaguang Song, Jinzhu Gao",
+"title"     :  "Evaluation of co-located and distributed collaborative visualization",
+"journal"   :  "5th Internation Symposium on Visual Information Communication and Interaction",
+"year"      :  "2012"
+},
+
+{
+"key"       :  "hu2011iasted",
+"author"    :  "Xianlin Hu, Huaguang Song, Lane Harrison, Aidong Lu, Jinzhu Gao, Weichao Wang",
+"title"     :  "Towards Effective Collaborative Analysis for Distributed Intrusion Detection",
+"journal"   :  "IASTED International Conference on Human-Computer Interaction",
+"year"      :  "2011"
+},
+
+{
+"key"       :  "harrison2011analysts",
+"author"    :  "Lane Harrison, Wenwen Dou, Aidong Lu, William Ribarsky, Xiaoyu Wang",
+"title"     :  "Analysts aren't machines: inferring frustration through visualization interaction",
+"journal"   :  "Visual Analytics Science and Technology (VAST), IEEE Conference",
+"year"      :  "2011",
+"pdf"       :  "docs/harrison2011analysts.pdf",
+"preview"   :  "img/harrison2011analysts-preview.png"
+},
+
+{
+"key"       :  "harrison2011guiding",
+"author"    :  "Lane Harrison, Wenwen Dou, Aidong Lu, William Ribarsky, Xiaoyu Wang",
+"title"     :  "Guiding Security Analysis through Visualization",
+"award"     :  "Award: High Potential for Scalability",
+"journal"   :  "Visual Analytics Science and Technology (VAST), IEEE Conference",
+"year"      :  "2011",
+"pdf"       :  "docs/harrison2011guiding.pdf",
+"preview"   :  "img/harrison2011guiding-preview.png"
+},
+
+{
+"key"       :  "finkelstein2009cmotion",
+"author"    :  "Samantha Finkelstein, Andrea Nickel, Lane Harrison, Evan A Suma, Tiffany Barnes",
+"title"     :  "cMotion: A New Game Design to Teach Emotion Recognition and Programming Logic to Children using Virtual Humans",
+"journal"   :  "Virtual Reality Conference, IEEE",
+"year"      :  "2009",
+"pdf"       :  "docs/finkelstein2009cmotion.pdf",
+"preview"   :  "img/finkelstein2009cmotion-preview.png"
+}
+
+]
+
+}

@@ -1,0 +1,123 @@
+[
+
+{
+"key"   :  "infovis2016",
+"date"  :  "Jun 2016",
+"text"  :  "Two papers accepted to InfoVis 2016 -- HindSight with <a href=\"http://www.mifeng.name/\">Mia</a> and PROACT with <a href=\"http://anzuhakone.com/\">Anzu</a>!"
+},
+
+{
+  "key"   :  "spring16talks",
+  "date"  :  "Apr 2016",
+  "text"  :  "Travel! Recent talks at <a href=\"http://pnl.gov/\">Pacific Northwest National Lab</a>, <a href=\"http://bostonchi.org/\">BostonCHI at IBM Research</a>, <a href=\"http://keene.edu/\">Keene State</a>, and <a href=\"http://smith.edu/\">Smith</a>."
+},
+
+{
+"key"   :  "emovis2016",
+"date"  :  "Jan 2016",
+"text"  :  "Workshop paper with <a href=\"http://www.science.smith.edu/~jcrouser/\">R. Jordan Crouser</a>, <a href=\"http://www.danafergan.com/\">Daniel Afergan</a>, and <a href=\"http://www.eg.bucknell.edu/~emp017/\">Evan Peck</a> accepted to <a href=\"http://cs.lnu.se/emovis2016/\">ACM IUI 2016, Workshop on Emotion and Visualization</a> - \"Beyond Detection: Investing in Practical and Theoretical Applications of Emotion and Visualization\""
+},
+
+{
+"key"   :  "chi2016beste",
+"date"  :  "Dec 2015",
+"text"  :  "<strong>Update: Best Paper Award! Also covered in <a href=\"https://www.newscientist.com/article/2076899-mind-reading-tech-helps-beginners-quickly-learn-to-play-bach/\">New Scientist</a> and <a href=\"http://www.fastcompany.com/3056869/this-brain-reading-tool-can-teach-you-a-new-skill-in-no-time\">FastCompany</a></strong> Paper with <a href=\"https://www.eecs.tufts.edu/~byukse01/\">Beste Yuksel</a> accepted to CHI 2016: <a href=\"http://web.cs.wpi.edu/~ltharrison/files/yuksel2016learn.pdf\">Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty based on Brain State</a>."
+},
+
+{
+"key"   :  "infovis15Bayes",
+"date"  :  "Aug 2015",
+"text"  :  "Paper with <a href=\"http://www.eecs.tufts.edu/~alvittao\">Alvitta Ottley</a> accepted to IEEE InfoVis: <a href=\"http://web.cs.wpi.edu/~ltharrison/files/ottley2015improving.pdf\">Improving Bayesian Reasoning: The Effects of Phrasing, Visualization, and Spatial Ability</a>."
+},
+
+{
+"key"   :  "biovisDesign",
+"date"  :  "Jul 2015",
+"text"  :  "Alyssa Tsiros receives an Honorable Mention in the <a href=\"http://www.biovis.net/year/2015/info/overview-0\">BioVis 2015 Design Contest</a> for her work in <a href=\"http://web.cs.wpi.edu/~ltharrison/files/tsiros2015visualizing.pdf\">visualizing ncRNA structural evolution</a>."
+},
+
+{
+"key"   :  "wpiAnnounce",
+"date"  :  "Jul 2015",
+"text"  :  "I've joined <a href=\"http://wpi.edu/\">Worcester Polytechnic Institute</a> as an Assistant Professor in the <a href=\"http://cs.wpi.edu/\">Department of Computer Science</a>."
+},
+
+{
+"key"   :  "euroVisEmbellishment",
+"date"  :  "Feb 2015",
+"text"  :  "Paper on the effect of visual embellishments in bar charts accepted to <a href=\"http://www.eurovis2015.it/\">EuroVis 2015</a>."
+},
+
+{
+"key"   :  "bioVisAnnounce",
+"date"  :  "Jan 2015",
+"text"  :  "Teaching Biovisualization at <a href=\"http://www.wpi.edu/academics/cs/\">Worcester Polytechnic Institute</a> this winter/spring."
+},
+
+{
+"key"   :  "openVisAnnounce",
+"date"  :  "Dec 2014",
+"text"  :  "Speaking on User-Centered Visualization Research at <a href=\"http://openvisconf.com/\">OpenVisConf 2015</a>, April 6-7."
+},
+
+{
+"key"   :  "chi2015Announce",
+"date"  :  "Dec 2014",
+"text"  :  "Paper on information graphics and aesthetic judgments accepted to <a href=\"http://chi2015.acm.org/\">CHI 2015</a> in Seoul, Korea."
+},
+
+{
+"key"   :  "ddsecpodcast",
+"date"  :  "Dec 2014",
+"text"  :  "Discussed VizSec 2014 and the future of security visualization on the <a href=\"http://datadrivensecurity.info/podcast/data-driven-security-episode-13.html\">Data Driven Security Podcast</a>."
+},
+
+{
+"key"   :  "visTalk",
+"date"  :  "Nov 2014",
+"text"  :  "Presented <a href=\"http://valt.cs.tufts.edu/papers/ranking-correlation/\">our paper</a> on visualizations of correlation and Weber's law at IEEE VIS in Paris. (<a href=\"https://twitter.com/dominikus/status/532923106554548224\">A short summary</a>, and a <a href=\"https://eagereyes.org/blog/2014/vis-2014-thursday\"> longer one here</a>.)"
+},
+
+{
+"key"   :  "vizsec",
+"date"  :  "Nov 2014",
+"text"  :  "Serving as General Chair for <a href=\"http://vizsec.org\">VizSec</a> (Visualization for Cyber Security) 2015."
+},
+
+{
+"key"   :  "preVisTalks",
+"date"  :  "Oct 2014",
+"text"  :  "Hosted 8 excellent IEEE VIS preview talks at Tufts, including authors from Brown, Harvard, and MIT."
+},
+
+{
+"key"   :  "bostonDatavis",
+"date"  :  "Sep 2014",
+"text"  :  "Spoke on \"User Centered Visualization\" at the <a href=\"http://www.meetup.com/bostondatavis/events/202511862/\">Boston DataVis Meetup</a> hosted by <a href=\"http://bocoup.com/\">Bocoup</a>."
+},
+
+{
+"key"   :  "craUsercentered",
+"date"  :  "Sep 2014",
+"text"  :  "Invited talk at Charles River Analytics."
+},
+
+{
+"key"   :  "vizsec14",
+"date"  :  "Sep 2014",
+"text"  :  "Paper on evaluation and security visualizations accepted to <a href=\"http://vizsec.org\">VizSec 2014</a>."
+},
+
+{
+"key"   :  "viscourse2014",
+"date"  :  "Sep 2014",
+"text"  :  "Appointed as Instructor at Tufts for the Visualization (CS) course."
+},
+
+{
+"key"   :  "infovis14",
+"date"  :  "July 2014",
+"text"  :  "Paper on leveraging perception to rank visualization effectiveness accepted to IEEE InfoVis and TVCG 2014."
+}
+
+]
