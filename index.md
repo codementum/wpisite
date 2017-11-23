@@ -71,7 +71,7 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 lane_at_cs.wpi.edu<br>
 [cv](files/cv.pdf)
 
-Office Hours B-term 2017: Th 3-5p Fuller 136 
+office hours b-term '17: th 3-5p fuller 136 
 
 # bio
 Lane's research leverages cognitive and perceptual principles to advance the science of information visualization and visual analytics. 
