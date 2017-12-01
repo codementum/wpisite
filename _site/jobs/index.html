@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>home</title>
+  <title>jobs</title>
   <meta name="description" content="Assistant Professor Computer Science">
 
   <link rel="stylesheet" href="/~ltharrison/assets/main.css">
-  <link rel="canonical" href="/~ltharrison/">
+  <link rel="canonical" href="/~ltharrison/jobs/">
   <link rel="alternate" type="application/rss+xml" title="Lane Harrison" href="/~ltharrison/feed.xml">
   
   
@@ -81,154 +81,16 @@
   <link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">
   <header class="post-header">
     
-      <h1 class="post-title"></h1>
+      <h1 class="post-title">jobs</h1>
     
   </header>
 
   <div class="post-content">
-    <style>
-.headshot
-{
-  float: right;
-  height: 200px;
-  margin-left: 32px;
-  margin-bottom: 16px;
-}
+    <p>Below is a list of current positions the VIEW lab and Professor Harrison are looking to fill.</p>
 
-.me
-{
-    font-weight: bolder;
-}
+<h1 id="test">Test</h1>
 
-.title
-{
-    font-weight: bolder;
-}
-
-.award
-{
-    font-weight: bolder;
-    color: #E86C4B;
-}
-
-.venue
-{
-    color: gray;
-}
-
-.authors
-{
-    color: #185A7C;
-}
-
-
-
-.preview {
-  float: left;
-  margin-right: 16px;
-  margin-top: 2px;
-}
-
-.preview img {
-  width: 128px;
-  height: 64px;
-  border-radius: 8px;
-}
-
-.pub {
-  margin-top: 32px;
-  padding-bottom: 8px;
-}
-
-.info {
-  display: table-cell;
-  line-height: 1.2em;
-  width: 700px;
-}
-
-</style>
-
-<p><img class="headshot" src="img/lane-round.png" /></p>
-
-<p>assistant professor, <a href="https://www.wpi.edu/academics/departments/computer-science">cs</a> +[<a href="https://www.wpi.edu/academics/departments/data-science">ds</a>,  <a href="https://www.wpi.edu/academics/departments/interactive-media-game-development">imgd</a>, <a href="https://www.wpi.edu/academics/departments/bioinformatics-computational-biology">bcb</a>]<br />
-lane_at_cs.wpi.edu<br />
-<a href="files/cv.pdf">cv</a></p>
-
-<p>office hours b-term ‘17: th 3-5p fuller 136</p>
-
-<h1 id="bio">bio</h1>
-<p>Lane’s research leverages cognitive and perceptual principles to advance the science of information visualization and visual analytics. 
-Data visualization is an indispensable tool for analysis and understanding. 
-Because we are beginning to rely on visualizations to make high-impact, even life-critical decisions, we must ensure that people have the best tools for the decisions they face.</p>
-
-<p>Lane was a PostDoc in the Visual Analytics Lab at Tufts (VALT), with Remco Chang.
-Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Center, with Aidong Lu.</p>
-
-<h1 id="publications">publications</h1>
-
-<div id="pubs">
-</div>
-
-<script type="text/javascript">
-
-d3.json('_data/pubs.json', function(d){
-    renderPubs(d.publications, '#pubs');
-});
-
-function renderPubs(d, target){
-  var div = d3.select(target);
-
-  // div's for pubs
-  var pubs = div.selectAll('publication')
-      .data(d)
-      .enter().append('div')
-      .classed('pub', true);
-
-  var prev = pubs.append('div')
-    .classed('preview', true);
-
-  prev.append('a')
-    .append('img')
-    .attr('src', function(d) { 
-      if(d.preview) return d.preview;
-      else return 'img/icon-wide.png'; 
-    });
-
-  var info = pubs.append('div')
-    .classed('info', true);
-
-
-  // title
-  var titles = info.append('div')
-      .classed('title', true)
-      .text(function(d) { return d.title; })
-
-  // authors
-  info.append('div')
-      .classed('authors', true)
-      .html(function(d) { 
-        return d.author.replace('Lane Harrison', '<span class="me">Lane Harrison</span>'); 
-      });
-
-  // venue, year
-  info.append('div')
-      .classed('venue', true)
-      .text(function(d) { return d.journal +', '+ d.year; });
-
-  // award
-  info.filter(function(d) { return d.award || ''; })
-      .append('div')
-      .classed('award', true)
-      .text(function(d) { return d.award; });
-
-  // links for bib and pdf
-  info.filter(function(d) { return d.pdf || ''; })
-      .append('a')
-      .attr('href', function(d) { return d.pdf; })
-      .text(function(d) { return "pdf"; });
-}
-</script>
-
+<p>one, two, three</p>
 
   </div>
 
