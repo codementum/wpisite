@@ -69,7 +69,7 @@ title: home
 
 assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-science) +[[ds](https://www.wpi.edu/academics/departments/data-science),  [imgd](https://www.wpi.edu/academics/departments/interactive-media-game-development), [bcb](https://www.wpi.edu/academics/departments/bioinformatics-computational-biology)]<br>
 lane_at_cs.wpi.edu<br>
-[cv](files/cv.pdf)
+[cv](docs/cv.pdf)
 
 office hours b-term '17: th 3-5p fuller 136 
 
