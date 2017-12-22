@@ -3,6 +3,24 @@
 "publications" : [
 
 {
+"key"       :  "feng2018giving",
+"author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
+"title"     :  "Giving Users Foresight: The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
+"journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
+"preview"   :  "img/feng2018giving-preview.png",
+"year"      :  "2018"
+},
+
+{
+"key"       :  "chen2018using",
+"author"    :  "Helen Chen, Sophie Engle, Alark Joshi, Eric Ragan, Beste Yuksel, Lane Harrison",
+"title"     :  "Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrice",
+"journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
+"preview"   :  "img/chen2018using-preview.png",
+"year"      :  "2018"
+},
+
+{
 "key"       :  "danas2017user",
 "author"    :  "Natasha Danas, Tim Nelson, Lane Harrison, Shriram Krishnamurthi, Daniel J. Dougherty",
 "title"     :  "User Studies of Principled Model Finder Output",
