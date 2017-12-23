@@ -21,6 +21,16 @@
 },
 
 {
+"key"       :  "qin2018mediar",
+"author"    :  "Xiao Qin, Tabassum Kakar, Susmitha Wunnava, Brian McCarthy, Andrew Schade, Huy Quoc Tran, Brian Zylich, Elke A. Rundensteiner, Lane Harrison, Sanjay K. Sahoo, and Suranjan De",
+"title"     :  "MeDIAR: Multi-Drug Adverse Reactions Analytics",
+"journal"   :  "To Appear: ICDE: IEEE International Conference on Data Engineering",
+"preview"   :  "img/qin2018mediar-preview.png",
+"pdf"       :  "docs/qin2018mediar.pdf",
+"year"      :  "2018"
+},
+
+{
 "key"       :  "danas2017user",
 "author"    :  "Natasha Danas, Tim Nelson, Lane Harrison, Shriram Krishnamurthi, Daniel J. Dougherty",
 "title"     :  "User Studies of Principled Model Finder Output",
@@ -30,6 +40,24 @@
 "year"      :  "2017"
 },
 
+{
+"key"       :  "mansoor2017data",
+"author"    :  "Hamid Mansoor, Lane Harrison",
+"title"     :  "Data Visualization Literacy and Visualization Biases: Cases for Merging Parallel Threads",
+"journal"   :  "Workshop on Dealing with Cognitive Biases in Visualisations (DECISIVe), IEEE VIS",
+"pdf"       :  "docs/mansoor2017data.pdf",
+"year"      :  "2017"
+},
+
+{
+"key"       :  "sechler2017sightline",
+"author"    :  "Jordan Sechler, Lane Harrison, Evan Peck",
+"title"     :  "SightLine: Building on the Web's Visualization Ecosystem",
+"journal"   :  "CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+"preview"   :  "img/sechler2017sightline-preview.png",
+"pdf"       :  "docs/sechler2017sightline.pdf",
+"year"      :  "2017"
+},
 
 {
 "key"       :  "feng2016hindsight",
@@ -46,6 +74,7 @@
 "author"    :  "Anzu Hakone, Lane Harrison, Alvitta Ottley, Nathan Winters, Caitlin Guthiel, Paul KJ Han, Remco Chang",
 "title"     :  "PROACT: Iterative Design of a Patient-Centered Visualization for Effective Prostate Cancer Health Risk Communication",
 "journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"preview"   :  "img/hakone2016proact-preview.png",
 "pdf"       :  "docs/hakone2016proact.pdf",
 "year"      :  "2016"
 },
