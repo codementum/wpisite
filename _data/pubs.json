@@ -3,11 +3,12 @@
 "publications" : [
 
 {
-"key"       :  "feng2018giving",
+"key"       :  "feng2018geffects",
 "author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
-"title"     :  "Giving Users Foresight: The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
+"title"     :  "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
 "journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
 "preview"   :  "img/feng2018giving-preview.png",
+"pdf"       :  "docs/feng2018geffects.pdf",
 "year"      :  "2018"
 },
 
@@ -17,6 +18,7 @@
 "title"     :  "Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrice",
 "journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
 "preview"   :  "img/chen2018using-preview.png",
+"pdf"       :  "docs/chen2018using.pdf",
 "year"      :  "2018"
 },
 
