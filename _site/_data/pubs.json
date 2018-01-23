@@ -3,12 +3,12 @@
 "publications" : [
 
 {
-"key"       :  "feng2018geffects",
+"key"       :  "feng2018effects",
 "author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
 "title"     :  "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
 "journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
-"preview"   :  "img/feng2018giving-preview.png",
-"pdf"       :  "docs/feng2018geffects.pdf",
+"preview"   :  "img/feng2018effects-preview.png",
+"pdf"       :  "docs/feng2018effects.pdf",
 "year"      :  "2018"
 },
 
