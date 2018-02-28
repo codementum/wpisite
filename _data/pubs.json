@@ -3,6 +3,15 @@
 "publications" : [
 
 {
+"key"       :  "yang2018correlation",
+"author"    :  "Fumeng Yang, Lane Harrison, Ronald A. Rensink, Steven L. Franconeri, Remco Chang",
+"title"     :  "Correlation Judgment and Visualization Features: A Comparative Study",
+"journal"   :  "To Appear: TVCG: IEEE Transactions of Visualization and Computer Graphics",
+"preview"   :  "img/yang2018correlation-preview.png",
+"year"      :  "2018"
+},
+
+{
 "key"       :  "feng2018effects",
 "author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
 "title"     :  "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
