@@ -1,17 +1,26 @@
 ---
 layout: page
 permalink: /jobs/
-title: jobs
+title: jobs | mqps | etc
 ---
 
-*updated 30-Nov-2017*
+*updated 20-Mar-2018*
 
 Below is a list of current positions we're looking to fill.
 
 If you're interested in a position, send me an application email. 
 It's a good idea to include your resume, website, GitHub, and any other information I'll need to determine whether you're a good fit for the project.
 
-# 17b: course web infrastructure (paid; short term)
+# mqp, abc(d) terms '18-'19 | sight.js google analytics for interactive data visualizations
+
+These days, there are thousands of interactive visualizations on the web.
+But there is currently no way for people who create these visualizations to get feedback on how people actually *use* them.
+
+This mqp will target different areas of a "stack" for building something like Google Analytics for interactive data visualizations.
+Projects may include interviews with visualization creators, high-throughput database creation, designs/mockups, implementation.
+Technologies may include R, ggplot2 (and other tidyverse libraries), js, d3js, and React.
+
+# ~~17b: course web infrastructure (paid; short term)~~ filled!
 
 Behind every successful course is a solid infrastructure.
 
