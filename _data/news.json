@@ -1,6 +1,12 @@
 [
 
 {
+"key"   :  "chi2018",
+"date"  :  "Jan 2018",
+"text"  :  "Two papers accepted to CHI 2018 -- Search+Vis with <a href=\"http://www.mifeng.name/\">Mia</a> and Scatterplot with <a href=\"http://TODO.com/\">Helen @USFCA</a>!"
+},
+
+{
 "key"   :  "infovis2016",
 "date"  :  "Jun 2016",
 "text"  :  "Two papers accepted to InfoVis 2016 -- HindSight with <a href=\"http://www.mifeng.name/\">Mia</a> and PROACT with <a href=\"http://anzuhakone.com/\">Anzu</a>!"

@@ -63,6 +63,11 @@ title: home
   width: 700px;
 }
 
+td:nth-child(2) {
+  padding-left: 1em;
+}
+
+
 </style>
 
 <img class="headshot" src='img/lane-round.png'>
@@ -71,16 +76,29 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 lane_at_cs.wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours c-term '18: th 430-530p fuller 136<br>
+office hours d-term '18: th 430-530p fuller 136<br>
 [schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
-# bio
-Lane's research leverages cognitive and perceptual principles to advance the science of information visualization and visual analytics. 
-Data visualization is an indispensable tool for analysis and understanding. 
-Because we are beginning to rely on visualizations to make high-impact, even life-critical decisions, we must ensure that people have the best tools for the decisions they face.
+upcoming travel:<br>
+Apr 20-26 @[chi2018](https://chi2018.acm.org/)<br>
+May 2-20 @Dahgstuhl -> Brussels -> [OpenVisConf](http://www.openvisconf.com/)!<br>
 
-Lane was a PostDoc in the Visual Analytics Lab at Tufts (VALT), with Remco Chang.
-Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Center, with Aidong Lu. 
+# bio
+Lane's research leverages cognitive/perceptual principles and data-driven techniques to understand how people interpret, use, and create data visualizations and visual analytics tools. 
+Data visualization is an indispensable tool for analysis and understanding. 
+Since we are beginning to rely on visualizations to make high-impact, even life-critical decisions in areas like health and cyber security, we must ensure that people have the best tools for the decisions they face.
+
+Lane was a PostDoc in the Visual Analytics Lab at Tufts (VALT), with [Remco Chang](http://www.cs.tufts.edu/~remco/).
+Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Center, with [Aidong Lu](https://webpages.uncc.edu/alu1/). 
+
+# news
+
+**mar<br>2018** | Visiting UMass Amherst to Judge the [2018 ASA Five Colleges DataFest](http://www.science.smith.edu/datafest/)
+**mar<br>2018** | TVCG paper accepted on Visual Features + Correlation Perception with [Fumeng @Brown](http://www.fmyang.com/)
+**mar<br>2018** | Talk @Northeastern with [NUVis](https://nuvis.northeastern.edu/)
+**jan<br>2018** | Two papers accepted to CHI 2018 -- Search+Vis with [Mia](http://www.mifeng.name/) and SPLOM animation with [Helen @USFCA](http://vgl.cs.usfca.edu/)
+**dec<br>2018** | Paper accepted to ICDE 2018 -- Drug-reaction Visual Analytics with [Xiao](http://web.cs.wpi.edu/~xqin/)
+<br>
 
 # publications
 
