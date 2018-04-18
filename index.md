@@ -93,11 +93,12 @@ Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Ce
 
 # news
 
-**mar<br>2018** | Visiting UMass Amherst to Judge the [2018 ASA Five Colleges DataFest](http://www.science.smith.edu/datafest/)
-**mar<br>2018** | TVCG paper accepted on Visual Features + Correlation Perception with [Fumeng @Brown](http://www.fmyang.com/)
-**mar<br>2018** | Talk @Northeastern with [NUVis](https://nuvis.northeastern.edu/)
-**jan<br>2018** | Two papers accepted to CHI 2018 -- Search+Vis with [Mia](http://www.mifeng.name/) and SPLOM animation with [Helen @USFCA](http://vgl.cs.usfca.edu/)
-**dec<br>2018** | Paper accepted to ICDE 2018 -- Drug-reaction Visual Analytics with [Xiao](http://web.cs.wpi.edu/~xqin/)
+**mar 2018** | Visiting UMass Amherst to Judge the [2018 ASA Five Colleges DataFest](http://www.science.smith.edu/datafest/)
+**mar 2018** | TVCG paper accepted on Visual Features + Correlation Perception with [Fumeng @Brown](http://www.fmyang.com/)
+**mar 2018** | Talk @Northeastern with [NUVis](https://nuvis.northeastern.edu/)
+**jan 2018** | Two papers accepted to CHI 2018 -- Search+Vis with [Mia](http://www.mifeng.name/) and SPLOM animation with [Helen @USFCA](http://vgl.cs.usfca.edu/)
+**dec 2018** | Paper accepted to ICDE 2018 -- Drug-reaction Visual Analytics with [Xiao](http://web.cs.wpi.edu/~xqin/)
+
 <br>
 
 # publications
