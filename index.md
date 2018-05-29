@@ -80,8 +80,8 @@ office hours d-term '18: th 430-530p fuller 136<br>
 [schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
-Apr 20-26 @[chi2018](https://chi2018.acm.org/)<br>
-May 2-20 @Dahgstuhl -> Brussels -> [OpenVisConf](http://www.openvisconf.com/)!<br>
+~~Apr 20-26 @[chi2018](https://chi2018.acm.org/)~~<br>
+~~May 2-20 @Dahgstuhl -> Brussels -> [OpenVisConf](http://www.openvisconf.com/)!~~<br>
 
 # bio
 Lane's research leverages cognitive/perceptual principles and data-driven techniques to understand how people interpret, use, and create data visualizations and visual analytics tools. 

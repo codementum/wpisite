@@ -15,7 +15,7 @@
 "key"       :  "feng2018effects",
 "author"    :  "Mi Feng, Cheng Deng, Evan M. Peck, Lane Harrison",
 "title"     :  "The Effects of Adding Search Functionality to Interactive Visualizations on the Web",
-"journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
 "preview"   :  "img/feng2018effects-preview.png",
 "pdf"       :  "docs/feng2018effects.pdf",
 "year"      :  "2018"
@@ -25,7 +25,7 @@
 "key"       :  "chen2018using",
 "author"    :  "Helen Chen, Sophie Engle, Alark Joshi, Eric Ragan, Beste Yuksel, Lane Harrison",
 "title"     :  "Using Animation to Alleviate Overdraw in Multiclass Scatterplot Matrices",
-"journal"   :  "To Appear: CHI: ACM Conference on Human Factors in Computing Systems",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
 "preview"   :  "img/chen2018using-preview.png",
 "pdf"       :  "docs/chen2018using.pdf",
 "year"      :  "2018"
@@ -35,7 +35,7 @@
 "key"       :  "qin2018mediar",
 "author"    :  "Xiao Qin, Tabassum Kakar, Susmitha Wunnava, Brian McCarthy, Andrew Schade, Huy Quoc Tran, Brian Zylich, Elke A. Rundensteiner, Lane Harrison, Sanjay K. Sahoo, and Suranjan De",
 "title"     :  "MeDIAR: Multi-Drug Adverse Reactions Analytics",
-"journal"   :  "To Appear: ICDE: IEEE International Conference on Data Engineering",
+"journal"   :  "ICDE: IEEE International Conference on Data Engineering",
 "preview"   :  "img/qin2018mediar-preview.png",
 "pdf"       :  "docs/qin2018mediar.pdf",
 "year"      :  "2018"
@@ -108,6 +108,16 @@
 "year"      :  "2016",
 "pdf"       :  "docs/yuksel2016learn.pdf",
 "preview"   :  "img/yuksel2016learn-preview.png"
+},
+
+{
+"key"       :  "yu2016effectiveness",
+"author"    :  "Li Yu, Lane Harrison, Aidong Lu",
+"title"     :  "Effectiveness of Feature-Driven Storytelling in 3D Time-varying Data Visualization",
+"journal"   :  "Journal of Imaging Science and Technology",
+"year"      :  "2016",
+"pdf"       :  "docs/yu2016effectiveness.pdf",
+"preview"   :  "img/yu2016effectiveness-preview.png"
 },
 
 {
