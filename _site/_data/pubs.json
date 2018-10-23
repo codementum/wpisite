@@ -3,10 +3,20 @@
 "publications" : [
 
 {
+"key"       :  "feng2018patterns",
+"author"    :  "Mi Feng, Evan M. Peck, Lane Harrison",
+"title"     :  "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"preview"   :  "img/feng2018patterns-preview.png",
+"pdf"       :  "docs/feng2018patterns.pdf",
+"year"      :  "2018"
+},
+
+{
 "key"       :  "yang2018correlation",
 "author"    :  "Fumeng Yang, Lane Harrison, Ronald A. Rensink, Steven L. Franconeri, Remco Chang",
 "title"     :  "Correlation Judgment and Visualization Features: A Comparative Study",
-"journal"   :  "To Appear: TVCG: IEEE Transactions of Visualization and Computer Graphics",
+"journal"   :  "TVCG: IEEE Transactions of Visualization and Computer Graphics",
 "preview"   :  "img/yang2018correlation-preview.png",
 "year"      :  "2018"
 },
