@@ -76,12 +76,12 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 lane_at_cs.wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours d-term '18: th 430-530p fuller 136<br>
+office hours b-term '18: th 300-400p fuller 136<br>
 [schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
-~~Apr 20-26 @[chi2018](https://chi2018.acm.org/)~~<br>
-~~May 2-20 @Dahgstuhl -> Brussels -> [OpenVisConf](http://www.openvisconf.com/)!~~<br>
+Oct 20-26 @[vis2018](http://ieeevis.org/)<br>
+Dec 1-7 @[tu-eindhoven](https://www.tue.nl/en/)<br> 
 
 # bio
 Lane's research leverages cognitive/perceptual principles and data-driven techniques to understand how people interpret, use, and create data visualizations and visual analytics tools. 
@@ -90,16 +90,6 @@ Since we are beginning to rely on visualizations to make high-impact, even life-
 
 Lane was a PostDoc in the Visual Analytics Lab at Tufts (VALT), with [Remco Chang](http://www.cs.tufts.edu/~remco/).
 Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Center, with [Aidong Lu](https://webpages.uncc.edu/alu1/). 
-
-# news
-
-**mar 2018** | Visiting UMass Amherst to Judge the [2018 ASA Five Colleges DataFest](http://www.science.smith.edu/datafest/)
-**mar 2018** | TVCG paper accepted on Visual Features + Correlation Perception with [Fumeng @Brown](http://www.fmyang.com/)
-**mar 2018** | Talk @Northeastern with [NUVis](https://nuvis.northeastern.edu/)
-**jan 2018** | Two papers accepted to CHI 2018 -- Search+Vis with [Mia](http://www.mifeng.name/) and SPLOM animation with [Helen @USFCA](http://vgl.cs.usfca.edu/)
-**dec 2018** | Paper accepted to ICDE 2018 -- Drug-reaction Visual Analytics with [Xiao](http://web.cs.wpi.edu/~xqin/)
-
-<br>
 
 # publications
 
