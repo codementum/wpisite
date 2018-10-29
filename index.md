@@ -76,11 +76,11 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 lane_at_cs.wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours b-term '18: th 300-400p fuller 136<br>
+office hours b-term '18: t 300-400p fuller 136<br>
 [schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
-Oct 20-26 @[vis2018](http://ieeevis.org/)<br>
+~~Oct 20-26 @[vis2018](http://ieeevis.org/)<br>~~
 Dec 1-7 @[tu-eindhoven](https://www.tue.nl/en/)<br> 
 
 # bio
