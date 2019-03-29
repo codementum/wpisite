@@ -76,7 +76,7 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 lane_at_cs.wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours c-term '18: fri 300-400p fuller 136<br>
+office hours d-term '18: fri 200-300p fuller 136<br>
 [schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
@@ -84,9 +84,7 @@ upcoming travel:<br>
 ~~Dec 1-7 @[tu-eindhoven](https://www.tue.nl/en/)<br>~~
 
 # bio
-Lane's research leverages cognitive/perceptual principles and data-driven techniques to understand how people interpret, use, and create data visualizations and visual analytics tools. 
-Data visualization is an indispensable tool for analysis and understanding. 
-Since we are beginning to rely on visualizations to make high-impact, even life-critical decisions in areas like health and cyber security, we must ensure that people have the best tools for the decisions they face.
+Lane's research leverages quantitative and computational methods to understand how people read, understand, and interact with data visualizations. Data visualization is an indispensable tool for analysis and understanding. Because we are beginning to rely on visualizations to make high-impact, even life-critical decisions in areas like health and cyber security, we must ensure that people have the best tools and information for the decisions they face.
 
 Lane was a PostDoc in the Visual Analytics Lab at Tufts (VALT), with [Remco Chang](http://www.cs.tufts.edu/~remco/).
 Lane received his PhD from UNC-Charlotte, home of the Charlotte Visualization Center, with [Aidong Lu](https://webpages.uncc.edu/alu1/). 
