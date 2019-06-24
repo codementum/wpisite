@@ -3,6 +3,26 @@
 "publications" : [
 
 {
+"key"       :  "kuhlman2019evaluating",
+"author"    :  "Caitlin Kuhlman, Diana Doherty, Malika Nurbekova, Goutham Deva, Zarni Phyo, Paul-Henry Schoenhagen MaryAnn VanValkenburg, Elke Rundensteiner, Lane Harrison",
+"title"     :  "Evaluating Preference Collection Methods for Interactive Ranking Analytics",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
+"preview"   :  "img/kuhlman2019evaluating-preview.png",
+"pdf"       :  "docs/kuhlman2019evaluating.pdf",
+"year"      :  "2019"
+},
+
+{
+"key"       :  "kakar2019diva",
+"author"    :  "Tabassum Kakar, Xiao Qin, Andrew Schade, Brian McCarthy, Huy Quoc Tran, Brian Zylich, Elke Rundensteiner, Lane Harrison, Sanjay K Sahoo, Suranjan De",
+"title"     :  "DIVA: Exploration and Validation of Hypothesized Drug-Drug Interactions",
+"journal"   :  "Computer Graphics Forum (EuroVis '19)",
+"preview"   :  "img/kakar2019diva-preview.png",
+"pdf"       :  "docs/kakar2019diva.pdf",
+"year"      :  "2019"
+}, 
+
+{
 "key"       :  "feng2018patterns",
 "author"    :  "Mi Feng, Evan M. Peck, Lane Harrison",
 "title"     :  "Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web",
