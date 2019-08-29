@@ -76,8 +76,8 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 ltharrison_at_wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours d-term '18: fri 200-300p fuller 136<br>
-[schedule a meeting](https://calendly.com/lanetharrison/office-hours)
+office hours a-term '19: by appointment fuller 136<br>
+[(if this is down, check back soon!) schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
 ~~Jun 01-08 @[eurovis2019](https://www.eurovis.org/)<br>~~
