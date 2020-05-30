@@ -76,12 +76,11 @@ assistant professor, [cs](https://www.wpi.edu/academics/departments/computer-sci
 ltharrison_at_wpi.edu<br>
 [cv](docs/cv.pdf)
 
-office hours a-term '19: by appointment fuller 136<br>
-[(if this is down, check back soon!) schedule a meeting](https://calendly.com/lanetharrison/office-hours)
+office hours summer '20: <br>
+[schedule a meeting](https://calendly.com/lanetharrison/office-hours)
 
 upcoming travel:<br>
-~~Jun 01-08 @[eurovis2019](https://www.eurovis.org/)<br>~~
-~~Jun 10-13 @vis summer camp 2019<br>~~
+n/a
 
 # bio
 Lane's research leverages quantitative and computational methods to understand how people read, understand, and interact with data visualizations. Data visualization is an indispensable tool for analysis and understanding. Because we are beginning to rely on visualizations to make high-impact, even life-critical decisions in areas like health and cyber security, we must ensure that people have the best tools and information for the decisions they face.
