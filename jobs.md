@@ -1,42 +1,17 @@
 ---
 layout: page
 permalink: /jobs/
-title: jobs | mqps | etc
+title: (new! 3/21) jobs | mqps | etc
 ---
 
-*updated Jul 10 2019*
+# MQPs
 
-Below is a list of current positions we're looking to fill.
+Check out the video below for '21-'22 visualization + full stack webdev related MQPs.
 
-If you're interested in a position, send me an application email. 
-It's a good idea to include your resume, website, GitHub, and any other information I'll need to determine whether you're a good fit for the project.
+<div style="position: relative; padding-bottom: 55.38461538461539%; height: 0;"><iframe src="https://www.loom.com/embed/5f785f9401c04b63923e6cbaf41e81cb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-# full stack web development for visualization science, abcd terms '19-'20 | NSF project on data literacy and visualization
-<a href="fullstack"></a>
+# General
 
-People encounter data visualizations like bar graphs, pie charts, and scatterplots on a daily basis.
-But how well can different people read charts?
-As part of an [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1815587), we're running experiments to find out.
+I'm always interested in chatting about data visualization with WPI students.
 
-This position will focus on the development and design of web-based data visualization experiments, like this one -> [`http://dev.codementum.org/literacy/`](http://dev.codementum.org/literacy/).
-
-Experience with web development, specifically JavaScript and to a lesser degree node.js, is a required skill to be effective in this position.
-Experience with d3 and React are nice to have but not explicitly required, as we will allocate time in the project scope for learning.
-
-# short-term gig -> lab bibliography 
-
-Do you like metadata and text files? 
-The lab has a backlog of several hundred PDFs that need metadata from Google Scholar along with some file organization.
-
-This is a short-term project that, by our estimates, will take a couple of weeks to complete.
-
-# ~~mqp, abc(d) terms '18-'19 | sight.js google analytics for interactive data visualizations~~ filled!
-
-These days, there are thousands of interactive visualizations on the web.
-But there is currently no way for people who create these visualizations to get feedback on how people actually *use* them.
-
-This mqp will target different areas of a "stack" for building something like Google Analytics for interactive data visualizations.
-Projects may include interviews with visualization creators, high-throughput database creation, designs/mockups, implementation.
-Technologies may include R, ggplot2 (and other tidyverse libraries), js, d3js, and React.
-
-
+Feel free to grab a slot at my [office hours scheduler](https://calendly.com/lanetharrison/office-hours) or send me an email.

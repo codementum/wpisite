@@ -3,6 +3,37 @@
 "publications" : [
 
 {
+"key"       :  "nobre2021revisit",
+"author"    :  "Carolina Nobre, Dylan Wootton, Zach Cutler, Lane Harrison, Hanspeter Pfister, Alexander Lex",
+"title"     :  "reVISit: Looking Under the Hood of Interactive Visualization Studies",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
+"preview"   :  "img/nobre2021revisit-preview.png",
+"pdf"       :  "docs/nobre2021revisit.pdf",
+"year"      :  "2021"
+},
+
+{
+"key"       :  "mccoleman2020no",
+"author"    :  "Caitlyn McColeman, Lane Harrison, Mi Feng, Steven Franconeri",
+"title"     :  "No Mark is an Island: Precision and Category Repulsion Biases in Data Reproductions",
+"journal"   :  "IEEE Transactions on Visualization and Computer Graphics (Proc. InfoVis)",
+"preview"   :  "img/mccoleman2020no-preview.png",
+"pdf"       :  "docs/mccoleman2020no.pdf",
+"year"      :  "2020"
+},
+
+
+{
+"key"       :  "nobre2020evaluating",
+"author"    :  "Carolina Nobre, Dylan Wootton, Lane Harrison, Alexander Lex",
+"title"     :  "Evaluating Multivariate Network Visualization Techniques Using a Validated Design and Crowdsourcing Approach",
+"journal"   :  "CHI: ACM Conference on Human Factors in Computing Systems",
+"preview"   :  "img/nobre2020evaluating-preview.png",
+"pdf"       :  "docs/nobre2020evaluating.pdf",
+"year"      :  "2020"
+},
+
+{
 "key"       :  "kuhlman2019evaluating",
 "author"    :  "Caitlin Kuhlman, Diana Doherty, Malika Nurbekova, Goutham Deva, Zarni Phyo, Paul-Henry Schoenhagen MaryAnn VanValkenburg, Elke Rundensteiner, Lane Harrison",
 "title"     :  "Evaluating Preference Collection Methods for Interactive Ranking Analytics",
